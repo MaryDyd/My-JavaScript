@@ -4,11 +4,11 @@ My JavaScript skills.
 ___
 
 #### :link: Live Demo: 
-[Quiz](///)
+[Quiz](https://mariadydnik.github.io/Quiz/)
 
-[Slider](///)
+[Slider](https://mariadydnik.github.io/Slider/)
 
-[Tabs](///)
+[Tabs](https://mariadydnik.github.io/Tabs/)
 ___
 
 #### :rocket: Technologies Used
